@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pizza_CSS", "Pizza_CSS", "{7ACFA807-9C76-4E08-96D9-F7FCC3640F49}"
+	ProjectSection(SolutionItems) = preProject
+		Pizza_CSS\Pizza.css = Pizza_CSS\Pizza.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pizza_JavaScript", "Pizza_JavaScript", "{CF58D972-A1CB-4514-A206-38059FB9B8E1}"
+	ProjectSection(SolutionItems) = preProject
+		Pizza_JavaScript\Pizza.js = Pizza_JavaScript\Pizza.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B113F582-C4EB-47BE-AB3A-460D46089B1E}"
+	ProjectSection(SolutionItems) = preProject
+		Pizza.html = Pizza.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8343541-EEEB-4D5F-BD66-82CEE9ADC4B0}
+	EndGlobalSection
+EndGlobal
